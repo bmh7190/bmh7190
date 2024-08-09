@@ -5,3 +5,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmh7190)]
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmh7190)]
+
+
