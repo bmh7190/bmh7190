@@ -7,6 +7,6 @@
 
 [![민혁's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmh7190)]
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ak015a01)](https://solved.ac/bmh7190/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bmh7190)](https://solved.ac/bmh7190/)
 
 
