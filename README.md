@@ -54,7 +54,7 @@
 <h1></h1>&nbsp
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmh7190&show_icons=true&theme=tokyonight" alt="minhyeok's GitHub stats" />&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmh7190&layout=compact&theme=tokyonight" alt="Top Languages" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=bmh7190&show_icons=true&theme=holi" alt="minhyeok's GitHub stats" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmh7190&layout=compact&theme=holi" alt="Top Languages" />&nbsp
 </div>
 
