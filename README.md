@@ -1,6 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=030314&height=120&text=&animation=twinkling&fontColor=ede3e3&fontSize=70" />
-    </div>
+</div>
+
     
     
 
