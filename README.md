@@ -1,10 +1,8 @@
-
-
-<h1 align="center">
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HELLO%20WORLD&fontSize=90&animation=twinkling&theme=tokyonight" />
-  </div>
-</h1>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=011f4b&height=120&text=&animation=twinkling&fontColor=ede3e3&fontSize=70" />
+    </div>
+    
+    
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
