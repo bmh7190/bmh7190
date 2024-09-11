@@ -48,12 +48,16 @@
     <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
+<br>
+<br>
+<br>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=030314&height=120&text=&animation=twinkling&fontColor=ede3e3&fontSize=70" style="transform: rotate(180deg);" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=030314&height=120&text=&animation=twinkling&section=footer&fontColor=ede3e3&fontSize=70" />
 </div>
-<h1></h1>&nbsp
 
+
+<h1></h1>&nbsp
 
 <!--
 <div align="center">
