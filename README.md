@@ -28,7 +28,7 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />&nbsp
+  <!--<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />&nbsp-->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
 
@@ -52,8 +52,11 @@
 
 <h1></h1>&nbsp
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bmh7190&show_icons=true&theme=holi" alt="minhyeok's GitHub stats" />&nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmh7190&layout=compact&theme=holi" alt="Top Languages" />&nbsp
 </div>
+-->
+
 
