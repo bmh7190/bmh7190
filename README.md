@@ -49,8 +49,11 @@
 </div>
 
 
-
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=030314&height=120&text=&animation=twinkling&fontColor=ede3e3&fontSize=70" style="transform: rotate(180deg);" />
+</div>
 <h1></h1>&nbsp
+
 
 <!--
 <div align="center">
