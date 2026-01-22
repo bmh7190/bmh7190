@@ -1,68 +1,28 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=030314&height=120&text=&animation=twinkling&fontColor=ede3e3&fontSize=70" />
-</div>
+새로운 기술을 익히는 데 그치지 않고, 실제 문제 해결에 적용하며 구조와 한계를 함께 고민해왔습니다.  
+서비스 설계, 공간 데이터 분석, 도구 개발 등 다양한 프로젝트를 통해 문제 해결에 필요한 기술을 직접 선택하고 적용해 왔으며,  
+하나의 역할에 머무르지 않고 필요한 영역까지 책임지는 개발자로 성장하고자 합니다!
 
-    
-    
+---
 
+### 🎓 Education & Experience
 
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
+- **인하대학교** | 공간정보공학과 (본) `2021.03 - 현재`
+- **인하대학교** | 컴퓨터공학과 (복) `2024.06 - 현재`
+- **UMC Inha 9th** | Spring Senior `2025.09 -`
+- **멋쟁이사자처럼 인하대학교** | Backend Team Lead (13기) / Backend (12기) `2024.03 - 2025.12`
+- **AWS Cloud Club Inha** | Core Member `2025.09 - 2025.12`
 
-<br>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>&nbsp
+### 🛠 Tech Stack & Studying
 
-</div>
-
-<br>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
-  <!--<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />&nbsp-->
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-
-</div>
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-</div>
-
-<br>
-<br>
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=030314&height=120&text=&animation=twinkling&section=footer&fontColor=ede3e3&fontSize=70" />
-</div>
-
-
-<h1></h1>&nbsp
-
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmh7190&show_icons=true&theme=holi" alt="minhyeok's GitHub stats" />&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmh7190&layout=compact&theme=holi" alt="Top Languages" />&nbsp
-</div>
--->
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
