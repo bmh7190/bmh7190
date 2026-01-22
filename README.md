@@ -8,7 +8,7 @@
 
 - **인하대학교** | 공간정보공학과 (본) `2021.03 - 현재`
 - **인하대학교** | 컴퓨터공학과 (복) `2024.06 - 현재`
-- **UMC Inha 9th** | Spring Senior `2025.09 -`
+- **UMC Inha 9th** | Spring Senior `2025.09 - 현재`
 - **멋쟁이사자처럼 인하대학교** | Backend Team Lead (13기) / Backend (12기) `2024.03 - 2025.12`
 - **AWS Cloud Club Inha** | Core Member `2025.09 - 2025.12`
 
@@ -26,3 +26,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📫 Contact
+
+[![tistory](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://baeminn.tistory.com/)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:bmh7190@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bmh7190@gmail.com)
